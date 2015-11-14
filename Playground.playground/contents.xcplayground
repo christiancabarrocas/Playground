@@ -6,5 +6,6 @@
         <page name='Errors'/>
         <page name='Enums'/>
         <page name='Unwrapping'/>
+        <page name='Swift Features'/>
     </pages>
 </playground>
