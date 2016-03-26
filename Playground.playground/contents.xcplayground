@@ -9,5 +9,6 @@
         <page name='Swift Features'/>
         <page name='Dependency injection'/>
         <page name='IndexPaths'/>
+        <page name='Refactor'/>
     </pages>
 </playground>

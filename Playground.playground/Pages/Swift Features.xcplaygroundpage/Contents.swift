@@ -4,7 +4,6 @@
 //: * Bret Victor's [**Learnable Programming**](http://worrydream.com/#!/LearnableProgramming) concept (see also the talk [**Inventing on Principle**](http://worrydream.com/#!/InventingOnPrinciple))
 //: * [**Light Table**](http://lighttable.com/)
 
-import Cocoa
 
 //: ## Curried functions
 // Function currying can come in handy when adopting a functional style of programming (eg: when you have chains of unary functions)

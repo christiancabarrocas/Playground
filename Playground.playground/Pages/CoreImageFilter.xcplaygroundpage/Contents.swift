@@ -45,7 +45,7 @@ func >>> (filter1:Filter, filter2:Filter) -> Filter {
 
 let original = CIImage(image: UIImage(named: "photo")!)
 let blurred = blur(6)(original!)
-let sepiaTone = sepia(0.6)(original!)
+let sepiaTone = sepia(0.9)(original!)
 let sepiaBlur = sepia(0.8) >>> blur(5)
 let ultraImage = sepiaBlur(original!)
-let bloomed = bloom(8, intensity: 10)(original!)
+let bloomed = bloom(10, intensity: 6)(original!)

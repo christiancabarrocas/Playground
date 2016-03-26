@@ -31,7 +31,6 @@ strings.sort(<)
 
 
 numbers.reverse()
-numbers.join([[1,2],[1,2]])
 
 
 //REDUCE
