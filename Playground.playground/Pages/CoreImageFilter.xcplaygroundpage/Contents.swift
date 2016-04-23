@@ -1,3 +1,5 @@
+//: [Previous](@previous)
+
 import UIKit
 import CoreImage
 
@@ -49,3 +51,5 @@ let sepiaTone = sepia(0.9)(original!)
 let sepiaBlur = sepia(0.8) >>> blur(5)
 let ultraImage = sepiaBlur(original!)
 let bloomed = bloom(10, intensity: 6)(original!)
+
+//: [Next](@next)

@@ -7,8 +7,8 @@
         <page name='Enums'/>
         <page name='Unwrapping'/>
         <page name='Swift Features'/>
-        <page name='Dependency injection'/>
         <page name='IndexPaths'/>
         <page name='Refactor'/>
+        <page name='Testing'/>
     </pages>
 </playground>

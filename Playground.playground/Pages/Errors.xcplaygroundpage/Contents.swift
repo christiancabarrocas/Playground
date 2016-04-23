@@ -1,3 +1,5 @@
+//: [Previous](@previous)
+
 import Foundation
 
 enum errorCodes:Double {
@@ -69,3 +71,5 @@ struct Error {
         }
     }
 }
+
+//: [Next](@next)

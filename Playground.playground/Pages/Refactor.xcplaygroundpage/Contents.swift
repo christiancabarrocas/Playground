@@ -73,3 +73,5 @@ class TalentAPIClientRefactor {
         return try NSJSONSerialization.JSONObjectWithData(data, options: opt)
     }
 }
+
+//: [Next](@next)

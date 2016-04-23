@@ -1,3 +1,5 @@
+//: [Previous](@previous)
+
 import UIKit
 
 func doStuff () {
@@ -35,3 +37,5 @@ switch (indexPath.section, indexPath.row) {
     default:
         doStuff()
 }
+
+//: [Next](@next)

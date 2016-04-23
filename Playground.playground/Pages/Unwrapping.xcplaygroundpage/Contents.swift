@@ -1,3 +1,4 @@
+//: [Previous](@previous)
 
 import UIKit
 
@@ -14,3 +15,5 @@ case let (nil, password?):
 case (nil, nil):
     print("Both username and password are missing")
 }
+
+//: [Next](@next)

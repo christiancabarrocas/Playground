@@ -1,3 +1,5 @@
+//: [Previous](@previous)
+
 //##ENUM INFO
 //http://appventure.me/2015/10/17/advanced-practical-enum-examples/
 
@@ -201,3 +203,5 @@ enum NumberCategory {
     }
 }
 let aNumber = NumberCategory(number: 100)
+
+//: [Next](@next)

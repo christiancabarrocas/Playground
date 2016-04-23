@@ -1,3 +1,5 @@
+//: [Previous](@previous)
+
 // Playground noun: a place where people can play
 
 //: ## Inspiration for Swift Playgrounds:
@@ -182,3 +184,4 @@ func lift(num: Double) -> Result<Double> {
 let result2 = lift(n) >>> inverse >>> squareRoot >>> logarithm >>> inverse
 print(description(result2))
 
+//: [Next](@next)
