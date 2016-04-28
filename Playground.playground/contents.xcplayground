@@ -10,5 +10,6 @@
         <page name='IndexPaths'/>
         <page name='Refactor'/>
         <page name='Testing'/>
+        <page name='MVVM'/>
     </pages>
 </playground>
