@@ -24,6 +24,7 @@ numbers.sort { (lhs, rhs) -> Bool in
     return lhs < rhs
 }
 
+numbers.filter{$0 % 2 == 0}
 
 numbers.sort(>)
 strings.sort(<)
@@ -51,6 +52,10 @@ numbers.map{(num:Int) in
 func multi(num:Int) -> Int {
     return num*num
 }
+
+
+let array = [13,3,4,1,230,68,150]
+let ordered = array.sort({$0 > $1})
 
 numbers.map(multi).sort(<)
 numbers.map(multi).sort(<).filter(isPrime)
